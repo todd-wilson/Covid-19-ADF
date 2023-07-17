@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-24601",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d3e12a7-7e17-459a-8dac-fc5cfe2fb691",
+		"tenantId": "6f007346-f3a0-45a5-9133-a9164e7e750d"
+	}
+}
